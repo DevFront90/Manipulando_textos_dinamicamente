@@ -71,6 +71,4 @@ Editar
 - Incluir exemplos de integração com APIs ou manipulação avançada de DOM.
 - Criar um breve tutorial em README com prints/screenshots (ou GIFs) mostrando a mudança de texto visualmente.
 
----
 
-Se quiser que eu personalize com screenshots, GIFs, badges (ex: GitHub Actions, jQuery CDN), ou outro conteú
